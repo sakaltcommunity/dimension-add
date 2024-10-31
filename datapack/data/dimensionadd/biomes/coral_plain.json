@@ -1,0 +1,26 @@
+{
+  "temperature": 0.8,
+  "precipitation": "rain",
+  "depth": 0.1,
+  "scale": 0.2,
+  "effects": {
+    "sky_color": 7907327,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "fog_color": 12638463,
+    "grass_color": 9447139
+  },
+  "carvers": {},
+  "spawn_costs": {},
+  "spawners": {
+    "water_creature": [
+      {
+        "type": "<namespace>:muncher",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ]
+  },
+  "features": []
+}
