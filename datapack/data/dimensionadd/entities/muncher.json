@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:zombie",
+  "display": {
+    "custom_name": "{\"text\":\"Muncher\"}",
+    "size": [1.5, 1.0]
+  },
+  "health": 55,
+  "attributes": [
+    {
+      "name": "generic.max_health",
+      "base": 55
+    },
+    {
+      "name": "generic.attack_damage",
+      "base": {
+        "easy": 3,
+        "normal": 5,
+        "hard": 7
+      }
+    }
+  ],
+  "spawn_egg": {
+    "primaryColor": 0x92C5FC,
+    "secondaryColor": 0xD8E2F1
+  }
+}
