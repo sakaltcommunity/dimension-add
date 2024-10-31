@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 12345,
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "dimensionadd:coral_plain",
+          "parameters": { "temperature": 1.0, "humidity": 0.5, "altitude": 0.2, "weirdness": 0.3 }
+        },
+        {
+          "biome": "minecraft:warm_ocean",
+          "parameters": { "temperature": 1.5, "humidity": 0.8, "altitude": 0.1, "weirdness": 0.2 }
+        }
+      ]
+    },
+    "settings": "minecraft:overworld"
+  }
+}
