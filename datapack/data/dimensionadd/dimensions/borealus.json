@@ -7,7 +7,7 @@
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "dimensionadd:coral_plain",
+          "biome": "aventuren:coral_plain",
           "parameters": { "temperature": 1.0, "humidity": 0.5, "altitude": 0.2, "weirdness": 0.3 }
         },
         {
