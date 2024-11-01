@@ -15,7 +15,7 @@
   "spawners": {
     "water_creature": [
       {
-        "type": "<namespace>:muncher",
+        "type": "aventuren:muncher",
         "weight": 10,
         "minCount": 1,
         "maxCount": 3
