@@ -1,0 +1,11 @@
+# ディメンション名
+dimension.aventuren.borealus=ボレアルス
+
+# バイオーム名
+biome.aventuren.coral_plain=コーラルプレイン
+
+# エンティティ名
+entity.aventuren.muncher=マンチャー
+
+# スポーンエッグ
+item.spawn_egg.entity.aventuren.muncher=マンチャーのスポーンエッグ
